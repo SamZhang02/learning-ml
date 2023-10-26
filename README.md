@@ -1,2 +1,2 @@
 # learning-ml
-A repository of good machine learning learning resources r
+A repository of good machine learning learning resources
