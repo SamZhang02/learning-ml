@@ -1,5 +1,5 @@
 # learning-ml
-A repository of good machine learning learning resources
+A repository of good resources to learn about machine learning, deep learning, and more
 ## Model Architectures
 
 |Topic|Link|Note|
